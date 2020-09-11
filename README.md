@@ -17,6 +17,17 @@ This script is to be implemented on a Text Editor.
 	* requests - To obtain the URL and page.
 	* string - To manipulate the strings obtained.
 
+### To add it to the CMD
+```
+$ cd ../..
+$ cd etc
+$ texteditor bash.basrc
+```
+On line 1 add the following & save it-
+```
+python3 /address of the script/wotd.py[or]wod.py
+```
+
 ## Built with
 * Python
 ## Author
